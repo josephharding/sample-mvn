@@ -11,4 +11,4 @@ cd <project root>
 mvn package
 ```
 
-this will generate a WAR file in `<project root>/targetsamplemvn-0.0.1.war`
+this will generate a WAR file in `<project root>/target/samplemvn-0.0.1.war`
